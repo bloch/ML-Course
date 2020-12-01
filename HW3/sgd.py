@@ -1,6 +1,5 @@
 #################################
 # Your name: Nathan Bloch
-#		 ID: 316130707
 #################################
 
 # Please import and use stuff only from the packages numpy, sklearn, matplotlib
